@@ -1,0 +1,28 @@
+footer{
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+body{
+  font-family: 'Arimo', sans-serif;
+  background-image: url("http://arijyu.com/wp-content/uploads/2015/09/page-bg.jpg");
+}
+
+p{
+  font-family: 'Merriweather', serif;
+  font-size: 1.25em;
+}
+
+.jumbotron{
+  height: 400px;
+  background-image: url("http://www.covismarketing.com/background-images/downtownportland3-background.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+  color: white;
+  text-align: right;
+
+}
+
+.post-content{
+  text-align: center;
+}

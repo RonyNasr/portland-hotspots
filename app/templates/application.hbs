@@ -1,3 +1,11 @@
-<h1 id="title">Welcome to Portland Hotspots</h1>
-
-{{outlet}}
+<div class="container">
+  <header class = "jumbotron">
+    <h1>Portland Hotspots</h1>
+  </header>
+    {{outlet}}
+  <hr>
+  <footer>
+    {{#link-to 'about'}}About Us{{/link-to}}
+    {{#link-to 'contact'}}Contact Us{{/link-to}}
+  </footer>
+</div>
