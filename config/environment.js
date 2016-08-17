@@ -13,6 +13,13 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+        apiKey: "AIzaSyBMIfPL0Rfo4tY5hzNSJUOzbeMs_dkvFh0",
+        authDomain: "portland-hotspots.firebaseapp.com",
+        databaseURL: "https://portland-hotspots.firebaseio.com",
+        storageBucket: "portland-hotspots.appspot.com",
+      },
+
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
