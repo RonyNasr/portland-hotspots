@@ -12,7 +12,6 @@ export default Ember.Component.extend({
         body: this.get('body'),
         author: this.get('author'),
         image: this.get('image'),
-        category: this.get('category'),
         tags: this.get('tags')
       };
       this.set('addNewPost', false);

@@ -3,6 +3,6 @@
 <h3>{{post.title}}</h3> <br>
 {{post.author}}<br>
 {{post.body}}<br>
-<img src="{{post.image}}" alt="{{post.category}}" /><br>
+<img src="{{post.image}}" alt="{{post.category.name}}" /><br>
 <hr>
 <button {{action 'delete' post}}>Delete</button>

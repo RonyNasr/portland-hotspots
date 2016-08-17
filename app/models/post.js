@@ -5,6 +5,6 @@ export default DS.Model.extend({
   author: DS.attr(),
   image: DS.attr(),
   body: DS.attr(),
-  category: DS.attr(),
+  category: DS.belongsTo('category', {async: true}),
   tags: DS.attr()
 });
