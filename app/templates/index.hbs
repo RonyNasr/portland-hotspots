@@ -1,9 +1,8 @@
 {{#each model as |post|}}
-  <h3>{{post.title}} by {{post.author}}</h3>
-  <img src="{{post.image}}" alt="{{post.category}}" />
-  <p>{{post.body}}</p>
+  {{post-tile post=post destroyPost="destroyPost"}}
 {{/each}}
 
+{{new-post savePost="savePost"}}
 
 {{#link-to 'about'}}About Us{{/link-to}}
 {{#link-to 'contact'}}Contact Us{{/link-to}}
