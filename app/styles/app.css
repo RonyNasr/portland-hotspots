@@ -3,7 +3,13 @@ footer{
   padding-bottom: 20px;
 }
 
+img {
+  max-width: 600px;
+  margin: 10px;
+}
+
 body{
+  padding-top: 5j0px;
   font-family: 'Arimo', sans-serif;
   background-image: url("http://arijyu.com/wp-content/uploads/2015/09/page-bg.jpg");
 }
@@ -11,6 +17,10 @@ body{
 p{
   font-family: 'Merriweather', serif;
   font-size: 1.25em;
+}
+
+.story {
+  font-size: 1.4em;
 }
 
 .jumbotron{

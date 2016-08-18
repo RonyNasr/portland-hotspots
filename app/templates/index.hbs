@@ -3,7 +3,3 @@
 {{/each}}
 
 {{new-post savePost="savePost"}}
-
-{{#each model as |category|}}
-  <li>{{#link-to 'category' category.id}}{{category.name}}{{/link-to}}</li>
-{{/each}}

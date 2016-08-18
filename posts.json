@@ -1,16 +1,31 @@
 { "posts": [{
-  "title": "Top 10 reasons to visit Portland",
-  "body": "One of the world's great towns for beer, weirdness, cheap food, funky neighbourhoods, forest hikes and much more, Portland is the kind of city you visit for two days and then move to. Endlessly entertaining and intriguing, it's easily walked and explored by bike and most locals will tell you the famous rain is merely a bonus. We've picked 10 reasons why you should already be planning your trip to Portland.",
-  "author": "Rony Nasr",
-  "image": "https://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2012/04/29326-54.jpg",
+  "title": "Little Beirut (Portland nickname)",
+  "body": "When President George H. W. Bush visited Portland in May 1990, 25 people were arrested after a four-hour confrontation with police. When President Bush visited Portland again in September 1991, 400 protesters showed up. A Bush staffer (it’s not known who) called the city little Beirut, after the violence-torn city of Beirut, Lebanon. Little Beirut has been cited in print since at least September 1991 and Beirut since January 1992. The nickname is still recalled; an August 2003 Associated Press story was titled Little Beirut nickname has stuck.",
+  "author": "Barry Popik",
+  "image": "http://media3.s-nbcnews.com/j/newscms/2015_31/1146361/150729-portland-activists-bridge-1214p_cfcd0e82a50b22ef8feb0fde1d937047.nbcnews-ux-2880-1000.jpg",
   "category": "travel",
   "tags": "travel, food, fun"
 }, {
-  "title": "Insider’s Guide to Portland",
-  "body": "Once considered the less exciting sibling of San Francisco and Seattle, Portland, Ore., has evolved into much more than just a city. Today, it is a utopian symbol of the possibilities of urban living in the 21st century—affordable, friendly, environmentally conscious and full of epicurean delights. One of the world's great towns for beer, weirdness, cheap food, funky neighbourhoods, forest hikes and much more, Portland is the kind of city you visit for two days and then move to. Endlessly entertaining and intriguing, it's easily walked and explored by bike and most locals will tell you the famous rain is merely a bonus. We've picked 10 reasons why you should already be planning your trip to Portland.",
-  "author": "Noah Yasskin",
-  "image": "https://www.lonelyplanet.com/travel-blog/tip-article/wordpress_uploads/2012/04/29326-28.jpg",
-  "category": "travel",
-  "tags": "travel, food, fun"
+  "title": "Big Trouble in Little Beirut",
+  "body": "This week, Donald J. Trump is coming to—well, not to Portland. The nativist Republican learned his lesson about holding a rally in the middle of a large liberal city when he aborted a rally in Chicago where his supporters were totally outgunned. But Donny is coming to Vancouver, which is close enough to Portland to likely see vigorous direct action.",
+  "author": "John Locanthi",
+  "image": "https://images.washingtonpost.com/?op=resize&url=https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2016/05/02173739/culture_1991-bushprotest1_ww_4227.jpg&mode=crop&w=1200&q=99",
+  "category": "protest",
+  "tags": "trump, bush, protest, portland"
+  }, {
+  "title": "All Quiet in Little Beirut",
+  "body": "Berkeley's done it. So has Ann Arbor, Denver, even Eugene. Seventeen U.S. cities have passed an anti-Patriot Act resolution, but Portland--that bastion of radicalism once dubbed Little Beirut by the elder George Bush --has yet to step into the fray.",
+  "author": "Amy Roe",
+  "image": "https://images.washingtonpost.com/?op=resize&url=https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2015/10/26123155/marynumair.jpg&mode=crop&w=1200&q=99",
+  "category": "protest",
+  "tags": "patriot act, protest, portland"
+  }
+  , {
+  "title": "Activists Marching Down Williams to Protest 'British Colonial' Restaurant Today",
+  "body": "They would like Saffron Colonial to change its name, please, and the names of plantation-themed drinks. They'll be fighting colonialism on the streets of North Williams Avenue today. Or at the very least, up to 75 activists will stage a protest of a brand-new British Colonial themed cafe called Saffron Colonial, which serves pastries and sausage rolls and Ristretto and a drink called the 'Tortolan Plantation Press'.",
+  "author": "Matthew Korfhage",
+  "image": "https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2016/03/19210237/plantation.jpeg",
+  "category": "protest",
+  "tags": "patriot act, protest, portland"
   }]
 }
