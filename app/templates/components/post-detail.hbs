@@ -9,3 +9,14 @@
 <hr>
 <br>
 <button {{action 'delete' post}}>Delete</button>
+{{update-post post=post update="update"}}
+
+
+<h2>Comments:</h2>
+{{add-comment addComment="addComment"}}
+
+{{#each post.comments as |comment|}}
+  <div class="panel panel-primary">
+    <div class="panel-body">{{comment.content}}</div>
+  </div>
+{{/each}}

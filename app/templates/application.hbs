@@ -25,10 +25,14 @@
   <header class = "jumbotron">
     <h1>Little Beirut</h1>
   </header>
-    {{outlet}}
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      {{outlet}}
+    </div>
+  </div>
   <hr>
   <footer>
-    {{#link-to 'about'}}About Us{{/link-to}}
-    {{#link-to 'contact'}}Contact Us{{/link-to}}
+    {{#link-to 'about'}} About Us   |{{/link-to}}
+    {{#link-to 'contact'}}   Contact Us {{/link-to}}
   </footer>
 </div>

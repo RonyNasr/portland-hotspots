@@ -12,20 +12,47 @@
   "image": "https://images.washingtonpost.com/?op=resize&url=https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2016/05/02173739/culture_1991-bushprotest1_ww_4227.jpg&mode=crop&w=1200&q=99",
   "category": "protest",
   "tags": "trump, bush, protest, portland"
-  }, {
+}, {
   "title": "All Quiet in Little Beirut",
   "body": "Berkeley's done it. So has Ann Arbor, Denver, even Eugene. Seventeen U.S. cities have passed an anti-Patriot Act resolution, but Portland--that bastion of radicalism once dubbed Little Beirut by the elder George Bush --has yet to step into the fray.",
   "author": "Amy Roe",
   "image": "https://images.washingtonpost.com/?op=resize&url=https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2015/10/26123155/marynumair.jpg&mode=crop&w=1200&q=99",
   "category": "protest",
   "tags": "patriot act, protest, portland"
-  }
-  , {
-  "title": "Activists Marching Down Williams to Protest 'British Colonial' Restaurant Today",
-  "body": "They would like Saffron Colonial to change its name, please, and the names of plantation-themed drinks. They'll be fighting colonialism on the streets of North Williams Avenue today. Or at the very least, up to 75 activists will stage a protest of a brand-new British Colonial themed cafe called Saffron Colonial, which serves pastries and sausage rolls and Ristretto and a drink called the 'Tortolan Plantation Press'.",
+}, {
+  "title": "Activists Marching Down Williams to Protest British Colonial Restaurant Today",
+  "body": "They would like Saffron Colonial to change its name, please, and the names of plantation-themed drinks. They'll be fighting colonialism on the streets of North Williams Avenue today. Or at the very least, up to 75 activists will stage a protest of a brand-new British Colonial themed cafe called Saffron Colonial, which serves pastries and sausage rolls and Ristretto and a drink called the Tortolan Plantation Press.",
   "author": "Matthew Korfhage",
   "image": "https://s3.amazonaws.com/wapopartners.com/wweek-wp/wp-content/uploads/2016/03/19210237/plantation.jpeg",
   "category": "protest",
   "tags": "patriot act, protest, portland"
-  }]
+}, {
+  "title": "Anarchy in Little Beirut: Best of PDX Punk",
+  "body": "10 live bands from the mammoth upcoming compilation: The Thornes, The Whiskey Dickers, Celebrity Graves, Dirty Kid Discount, The Decliners, The Food, Monica Nelson & the Highgates, Second Best, Vodka Wilson Overdrive, The Ex-Girlfriends Club",
+  "author": "Silver Records",
+  "image": "https://scontent-iad3-1.xx.fbcdn.net/t31.0-8/1921157_624118720969361_2064182368_o.jpg",
+  "category": "music",
+  "tags": "anarchy, protest, portland"
+}, {
+  "title": "Little Beirut",
+  "body": "Little Beirut is an indie rock band from Portland, OR. Yes, Fear of Heaven is a big fat pop record in the best way. Lush with melodies and choruses you can sing along to in your car, Little Beirut’s third album shows a band coming into its own.",
+  "author": "Hamilton Sims, Edwin Paroissien, Alex Inman, John Hulcher",
+  "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t1.0-9/429136_344516082256091_201826851_n.jpg?oh=f239d4fe415373a614d9117a5249305e&oe=58175D89",
+  "category": "music",
+  "tags": "anarchy, protest, portland"
+}, {
+  "title": "Man pulls gun at Don't Shoot PDX protesting US police shootings",
+  "body": "A man pulled a gun near hundreds of people taking part in a Don't Shoot PDX protest Thursday evening and was later taken into custody by law enforcement officers in tactical gear. Michael Strickland, 36, is facing misdemeanor menacing and second-degree disorderly conduct charges, according to jail records. He was booked into the Multnomah County Detention Center late Thursday night, and then released on his own recognizance, jail and court records show.",
+  "author": "Hamilton Sims, Edwin Paroissien, Alex Inman, John Hulcher",
+  "image": "http://media.oregonlive.com/portland_impact/photo/police-shootings-protest-portland-69f0e858ff2a4a46.jpg",
+  "category": "protest",
+  "tags": "police, protest, portland"
+}, {
+  "title": "Bombs, Vice, and Little Beirut",
+  "body": "The latest installment of Stumptown Stories features true tales from history nerds JB Fisher, Heather Arndt Anderson, and Joe Streckert.",
+  "author": "Jack London Bar",
+  "image": "https://static.pexels.com/photos/3540/restaurant-alcohol-bar-drinks.jpg",
+  "category": "protest",
+  "tags": "police, protest, portland"
+}]
 }
